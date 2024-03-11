@@ -1,6 +1,197 @@
 # CRM
 ![CRM](https://github.com/txuswashere/CRM/raw/main/crm-gartner-magic-quadrant-2023.jpg)
 
+## DEFINICIÓN DEL CRM
+
+- CRM es el proceso de adquisición, retención e incremento de rentabilidad de los consumidores.
+- CRM es la filosofía que trata de crear y mantener en el tiempo relaciones rentables con el cliente.
+- CRM es el compromiso por parte de la empresa en situar la experiencia del cliente como una de sus prioridades y asegurar el establecimiento de relaciones satisfactorias con el cliente mediante el desarrollo de sistemas, procesos y uso de información.
+- CRM engloba tanto la estrategia como los procesos que comprenden la adquisición, retención y asociación con determinados clientes con objeto de crear un valor superior tanto para la compañía como para el propio cliente. Requiere la integración de las funciones de marketing, ventas, servicio al cliente y cadena de aprovisionamiento de la organización, para alcanzar mayor eficiencia y efectividad en la entrega de valor al cliente.  
+- CRM es un proceso de incremento de valor apoyado por las tecnologías de la información, que identifica, desarrolla, integra y orienta las distintas competencias de la empresa hacia la voz de los clientes, con objeto de entregar un mayor valor al cliente en el largo plazo, para identificar correctamente los segmentos de mercado tanto existentes como potenciales.  
+- CRM es el conjunto de estrategias de negocio, marketing, comunicación e infraestructuras tecnológicas, diseñadas con el objeto de construir una relación duradera con los clientes, identificando, comprendiendo y satisfaciendo sus necesidades.
+- CRM es una estrategia de negocio orientada hacia el consumidor cuyo objetivo es incrementar la satisfacción y la lealtad del cliente ofreciéndole una respuesta y un servicio personalizado
+- CRM es la integración en toda la empresa de tecnologías trabajando conjuntamente como son almacenamiento de datos, sitio web, intranet‐extranet, sistema de apoyo telefónico, contabilidad, marketing, ventas y producción, para permitir la comunicación entre las distintas partes de la organización y así servir mejor a la clientela. Consecuentemente, esto mejora la satisfacción de los clientes y su lealtad.  
+- CRM es la estrategia de negocio central que integra procesos y funciones internas, y redes externas, con objeto de crear y entregar valor a los clientes objetivo a un beneficio determinado. Esta estrategia es posibilitada por las nuevas tecnologías de la información, y se basa en datos de alta calidad acerca de los clientes.  
+- CRM hace referencia tanto a la estrategia de negocio enfocada a seleccionar y gestionar una relación con los mejores clientes para optimizar su valor a largo plazo, como a las aplicaciones concretas de software necesarias para procesar la información de esos clientes y desarrollar esa relación.  
+- CRM es una estrategia y proceso desarrollado por la organización basados en la identificación y retención de clientes valiosos a través de la construcción de relaciones a largo plazo.
+- CRM es el conjunto de estrategias que tienen la intención de buscar, recopilar y almacenar la información adecuada, validarla y compartirla a través de toda la organización, con objeto de que después sea utilizada por todos los niveles organizativos para crear experiencias únicas y personalizadas a sus clientes. 
+- CRM es la estrategia de negocio que persigue el establecimiento y desarrollo de relaciones de valor con clientes, basadas en el conocimiento. Utilizando las TIC como soporte, el CRM implica un rediseño de la organización y sus procesos para orientarlos al cliente, de forma que, por medio de la personalización de su oferta, la empresa pueda satisfacer óptimamente las necesidades de los mismos, generándose relaciones de lealtad a largo plazo, mutuamente beneficiosas.  
+- CRM es una estrategia de gestión de relaciones con clientes, cuyo propósito es seleccionar y gestionar clientes con el fin de entender su comportamiento y necesidades para desarrollar relaciones fuertes.
+- CRM es la filosofía empresarial, que toma como centro de gravedad de todos los procesos de la compañía, al cliente actual y potencial, con el objetivo final de adquirir clientes e incrementar su lealtad, mediante mecanismos técnicos, humanos y racionales que nos permitan conocer mejor al cliente.
+- CRM es un software sofisticado con herramientas de análisis que tienen como finalidad integrar la información de todas las fuentes, analizarla en profundidad y aplicarla para construir relaciones sólidas con los clientes. Mediante el uso de un CRM e integrando correctamente a los equipos de ventas, servicio de atención al cliente y marketing, las empresas pueden llegar a obtener una visión 360 grados de la relación con sus clientes, con la que pueden ofrecer un mayor nivel de servicio y desarrollar relaciones más profundas.
+
+
+No existe una única definición con relación a la filosofía CRM, hay autores que inciden en la importancia del factor tecnológico a la hora de hacer posible una estrategia CRM, y así lo incluyen en su definición, y hay autores que a pesar del papel fundamental que juegan las TIC en este ámbito, inciden en el carácter estratégico del CRM cuyo objetivo es comprender, anticipar y gestionar las necesidades del cliente actual y potencial de la empresa.
+Si bien, la mayoría de las definiciones coinciden al definirla como una filosofía empresarial que combina estrategia y tecnología, incrementando el conocimiento sobre los clientes y estableciendo una comunicación bidireccional entre ellos y la empresa. Y señalan como características comunes del CRM las siguientes:
+
+- Aplicar los principios y herramientas del CRM en la gestión empresarial, mejora la eficiencia y efectividad de los procesos, permitiendo así incrementar el valor a largo plazo tanto para el cliente como para la empresa.
+- Constituye una estrategia o modelo de negocio centrado en el cliente. Esta estrategia debe integrar a toda la organización, alineando a las distintas funciones existentes con un objetivo común.  
+- Su objetivo principal es generar valor para el cliente, mediante el conocimiento de sus necesidades o preferencias, y mediante la adaptación y personalización de su oferta.  
+- Incluye la aplicación de herramientas tecnológicas que posibiliten la estrategia, pero insistiendo en que el CRM no es sólo tecnología, sino que es un concepto mucho más amplio. 
+- Constituye una estrategia de negocio a largo plazo que genera beneficios para las distintas partes implicadas en la relación.  
+- La estrategia CRM implica un rediseño de la organización para orientarla al cliente, por lo que requiere una cultura y liderazgo organizativo adecuados.  
+
+
+
+## Implementación de la estratégia CRM
+La estrategia o enfoque CRM es simple de entender pero difícil de implementar con éxito. Su aplicación, supone una evaluación de la estrategia de negocio, ya que la misma debe centrarse en un modelo orientado al cliente. Esta orientación, requiere tanto de un cambio de cultura organizacional como de procesos, y todo ello con una especial atención al factor humano, ya que implica situar al cliente como centro indiscutible de todas las actividades de la empresa, con el objetivo de ir construyendo una relación de lealtad a largo plazo que genere beneficios para la empresa.  
+El cambio en la cultura organizacional afectará a todos los niveles de la empresa, supone reorientarse hacia el aprendizaje, y el cambio y la integración de las funciones tecnológicas y de marketing con el objetivo de generar una experiencia de valor en los clientes a través de una apropiada segmentación y una atención individualizada. Todo ello, con el objetivo de conseguir mejorar la satisfacción y lealtad de los clientes provocando el consiguiente aumento en las ventas. Así, la implementación exitosa de la estrategia CRM hace necesaria una reorientación de la cadena de valor hacia el cliente, haciendo que la información y el conocimiento sobre el mismo se comparta y sea de libre y fácil acceso. Será necesario también, disponer de sistemas de evaluación que permitan medir el grado de consecución de los objetivos derivados de la estrategia CRM, priorizándose los sistemas multidimensionales que recojan tanto la perspectiva del cliente como las mejoras financieras que puedan derivarse de la propia estrategia.
+El cambio en los procesos, supone pasar de estar enfocados en los productos a estar enfocados en los clientes. Este nuevo enfoque, requiere cambios tanto en los procesos internos de aprendizaje organizativo, como en los procesos operativos de la empresa. Respecto a los primeros, suponen cuatro transformaciones que son especialmente relevantes: el proceso de adquisición de información sobre clientes, la integración de las funciones de marketing y de las TIC, la implicación de la dirección y la política de evaluación y compensación del factor humano. Dado que esas transformaciones se van produciendo de forma gradual, es lógico que a medida que transcurra más tiempo desde que se inició la implementación de la estrategia se vaya produciendo ese aprendizaje organizativo
+
+
+Respecto a los procesos operativos, es decir, diseño de productos, ventas, gestión de pedidos, distribución, emisión de facturas y cobros, atención al cliente, etc., están todos ellos soportados en sistemas de software CRM que permiten a la empresa ofrecer un servicio personalizado, de mayor calidad y a un coste inferior. Implementar una estrategia CRM hace necesario disponer de una tecnología adecuada, que permita optimizar los procesos de negocio implicados en la relación con los clientes. Si bien, la tecnología CRM no hace referencia solamente a una serie de herramientas y canales de comunicación –Call centres, Internet–, sino que supone la integración de estos canales con el resto de la empresa para obtener una visión única del cliente en los diversos puntos de contacto. Todo ello, sin olvidar que la tecnología constituye una condición necesaria, pero no suficiente, para el éxito de la implementación de la estrategia CRM.
+En cuanto al factor humano, su importancia en la implementación de la estrategia CRM es fundamental, ya que incluso dándose un cambio organizacional y un cambio en los procesos de la empresa con el objetivo de reorientarse hacia el cliente, la relación entre personas sigue teniendo un efecto determinante para poner en marcha cualquier estrategia de negocio. El personal de la empresa habrá de adaptase a una nueva forma de pensar, una nueva tecnología y nuevos procesos, por ello su compromiso con la implementación y el uso adecuado de un sistema CRM es una de las bases del éxito de esta estrategia. Es por ello, que factores como la formación y la motivación, así como el establecimiento de sistemas de recompensa adecuados, serán determinantes para la implicación del personal en la puesta en marcha de una estrategia de este tipo. Dada la variedad y cantidad de personas involucradas, es conveniente identificar a una de ellas para   que lidere el proyecto, y consiga la colaboración de todas las personas involucradas en el cambio para lograr una implementación exitosa.   
+Si bien, la tecnología desempeña un papel esencial en la recogida y análisis de una gran cantidad de datos sobre el cliente, son las personas las que ejercen el impacto más importante al gestionar esos datos de manera integral, dinámica, eficiente e interactiva, y al transformarlos en información que, al ser integrada y asimilada por toda la organización, se convierten en conocimiento sobre el cliente. La gestión de este conocimiento resulta ser un factor clave en la implementación exitosa de la estrategia CRM, ya que la empresa desarrolla capacidades relacionadas con los procesos de gestión del conocimiento de clientes, que al ser difíciles de imitar se convierten en un factor diferencial y fuente de ventaja competitiva.
+
+
+
+
+
+
+# Ventajas de la implementación de la estrategia CRM  
+Una implementación exitosa de la estrategia CRM se traducirá en ventajas y beneficios para la empresa, siempre  y cuando los objetivos para su implementación estén previa y claramente definidos
+
+## Principales beneficios de la implementación CRM
+
+- Incrementar la satisfacción y retención de clientes
+- Mejorar la interacción del cliente en cada canal
+- Predecir el comportamiento del cliente
+- Maximizar el valor de su ciclo de vida
+- Incremento de la satisfacción del cliente y de la cuota de clientes de alto valor
+- Mejora de la efectividad del equipo de ventas
+- Reducción del ciclo de ventas
+- Gestión de clientes multicanal
+- Disminución del tiempo de lanzamiento de nuevos productos y del coste medio de captación de clientes
+- Mayor conocimiento del cliente
+- Aumento de la satisfacción y lealtad de los clientes
+- Aumento de las ventas
+- Reducción de los costes de servicio
+- Incremento de la lealtad de clientes  
+- Mayor efectividad en la gestión y eficiencia en costes
+- Segmentación de mercados
+- Mejora en la capacidad de respuesta a la competencia
+- Mejora en el servicio al cliente y en la satisfacción de sus necesidades
+- Mejora en la actualización y transmisión de datos
+- Mejora la capacidad de dirigirse a los clientes potenciales
+- Permite la integración de las ofertas a través de los diversos canales
+- Mejora la eficiencia y efectividad de las fuerzas de ventas
+- Apoya y gestiona campañas de marketing
+- Gestiona productos y servicios personalizados
+- Mejora en eficacia y eficiencia en la relación a la atención al cliente
+- Mejora los precios de bienes y servicios
+- Aumenta la eficiencia y motivación del personal de la empresa
+- Coordina efectivamente la comunicación, mejora la capacidad de encontrar, obtener y retener a los clientes  
+- Mayor participación de mercado
+- Aumento notable de la calidad y satisfacción del cliente
+
+
+
+# Factores de éxito en la implementación de la estrategia CRM
+
+Entre los factores de éxito más citados podemos destacar la existencia de una cultura corporativa centrada en el cliente, el apoyo explícito de la alta dirección y el contar con los recursos tecnológicos y de personal necesarios para la puesta en marcha de la estrategia CRM
+
+- Cliente como centro de actuaciones
+- Cultura corporativa adecuada
+- Mejora tecnológica y en procesos
+- Compromiso financiero
+- Énfasis en la gestión del cambio
+- Apoyo de la alta dirección
+- Identificar y adquirir los clientes de mayor valor
+- Elaborar una proposición de valor adecuada
+- Definir los procesos óptimamente
+- Motivar a los empleados y Aprendizaje continuo
+- Desarrollar estrategias centradas en el cliente
+- Rediseñar responsabilidades y roles
+- Reingeniería de procesos de trabajo
+- Considerar la tecnología como medio de apoyo (no como protagonista)
+- Enfoque corporativo del proyecto: coordinación y apoyo de diversos departamentos
+- Apoyo explícito de la alta dirección y Establecimiento de sistemas de control
+- Alineación de objetivos y puesta en marcha de un sistema de incentivos para el personal
+- Valoración de capacidades y recursos necesarios para el proyecto
+- Planificación estratégica que asegure la continuidad del sistema
+- Cambio organizacional que afectará a todos los niveles de la empresa
+- Enfoque cliente
+- Adaptación tecnológica y de procesos  
+- Compromiso del personal involucrado en el cambio
+- Desarrollo de la estrategia: estrategia de negocio y estrategia de clientes
+- Creación de valor y gestión de intercambio de valor
+- Integración y combinación multicanal para obtener una visión unificada del cliente.
+- Gestión de la información sobre clientes y Análisis de resultados
+- Factores estratégicos: apoyo de la alta dirección, cultura organizativa, desarrollo de una estrategia CRM, visión clara del alcance del proyecto y benchmarking.
+- Factores tácticos: aceptación de los empleados, la elección del software CRM, su integración con otros sistemas y la formación necesaria
+- Factores operativos: plan de implementación del CRM, medidas de resultado de la estrategia, personalización, orientación al cliente y análisis de datos.
+- Apoyo de la alta dirección
+- Enfoque cliente
+- Documentación de procesos, recopilación y evaluación de datos
+- Definición de canales de comunicación
+- Formación del personal en nuevas tecnologías y procesos
+- Retroalimentación, intercambio de ideas y consideración de cambios y mejoras
+- Reconocimiento como incentivo positivo  
+- Orientación al mercado
+- Gestión del conocimiento
+- Factores organizacionales: factor humano, recursos económicos, liderazgo, know‐how específico en CRM, recursos tecnológicos
+
+
+# Causas del fracaso en la implementación de la estrategia CRM
+
+Cuando la empresa implementa una estrategia CRM, requiere que ésta sea clara y con unos objetivos definidos y medibles, además de una integración transversal de todo el personal involucrado. Entre las principales causas del fracaso en la implementación de la estrategia CRM destacan: conceder un protagonismo excesivo a las TIC, desajuste del proyecto CRM con la estrategia general del negocio y baja implicación de la alta dirección, falta de formación del personal así como de sistemas de evaluación y de escalas de medida para los resultados del CRM que orienten a las empresas para su correcta implementación.
+
+
+
+
+- Ausencia de compromiso y liderazgo por parte de la alta dirección
+- Falta de alineación y coordinación
+- Cultura corporativa inadecuada
+- Falta de formación del personal
+- Protagonismo excesivo de las tecnologías de la información
+- Ausencia de objetivos comerciales y de rentabilidad claramente definidos
+- Baja implicación de la alta dirección
+- Fallos en la identificación de los clientes de mayor valor
+- Falta de apoyo de la dirección
+- Falta de alineamiento funcional
+- Desajuste del proyecto CRM con la estrategia general de negocio
+- Énfasis en el “desarrollo de capacidades” y no en la generación de ROI (retorno de la inversión)
+- Ausencia de un plan integral para la ejecución del proyecto
+- Implementar CRM sin diseñar antes una estrategia de relación con el cliente
+- Poner en marcha el sistema antes de realizar los cambios organizativos necesarios
+- Pensar que cuanta más tecnología, mejor
+- Asumir que el cliente siempre quiere mantener una relación con la empresa
+- Falta de integración de la tecnología con los procesos de negocio
+- Falta de cultura organizativa centrada en el cliente
+- Falta de sistemas de evaluación adecuados del sistema  
+- Falta de apoyo de la alta dirección
+- Falta de desarrollo de cultura centrada en el cliente
+- Falta de implicación de todo el personal en la puesta en marcha de la estrategia y sistema de incentivos adecuado.
+- Falta de una buena redefinición de procesos.  
+- Mala calidad de los datos y de la información.  
+- Ausencia de integración con otras aplicaciones complementarias ya implantadas en la empresa.  
+- Falta de madurez del mercado  
+- Insuficiencia de políticas y la falta de formación
+- Objetivos poco claros que suponen la captura de información errónea
+- Inadecuada selección y utilización de la tecnología
+- Incapacidad de integrar clientes  
+- Uso de métricas erróneas o medición inadecuada
+
+
+
+# Conclusiones:
+
+1. No existe una única definición con relación a la filosofía CRM, si bien, la mayoría de los autores coinciden al definirla como una filosofía empresarial que combina estrategia y tecnología, incrementando el conocimiento sobre los clientes y estableciendo una comunicación bidireccional entre ellos y la empresa.  
+2. La estrategia o enfoque CRM es simple de entender pero difícil de implementar con éxito. En la mayoría de los casos supone una reorientación de la estrategia del negocio hacia el cliente, lo que significa situar a este como centro indiscutible de todas las actividades de la empresa, con el objetivo de ir construyendo una relación de lealtad a largo plazo que genere beneficios para la empresa. Esta reorientación requiere no sólo de un cambio de cultura organizacional sino también un cambio de procesos, y todo ello con una especial atención al factor humano.  
+3. Una implementación exitosa de la estrategia CRM se traducirá, en principio, en ventajas y beneficios para la empresa como el incremento de la satisfacción y retención de clientes, mejora de la interacción del cliente en cada canal, así como una gestión multicanal del mismo, segmentación de mercados, mejora en el servicio al cliente así como en la satisfacción de sus necesidades, etc. Pero para que dicha implementación sea exitosa requiere de factores como una cultura corporativa centrada en el cliente, el apoyo explícito de la alta dirección y el contar con los recursos tecnológicos y de personal necesarios para la puesta en marcha de la estrategia CRM.
+4. Entre las principales causas del fracaso en la implementación de la estrategia CRM destacan: conceder un protagonismo excesivo a las TIC (es decir, caer en el determinismo tecnológico señalado en la introducción de este informe), desajuste del proyecto CRM con la estrategia general del negocio y baja implicación de la alta dirección, falta de formación del personal, así como de sistemas de evaluación y de escalas de medida para los resultados del CRM, y que orienten a las empresas para su correcta implementación.
+5. La opción Saas/On demand en la nube, es la opción software CRM preferida por las PYMES, ya que permite todas las funcionalidades estándar de los sistemas on‐premise, pero sin los costes en tiempo e inversión en infraestructura. Además, es un sistema que ofrece una propuesta atractiva para los usuarios independientemente de su ubicación (oficina fija/ oficina móvil/ dispositivos móviles). Si bien, su mayor inconveniente, independientemente del tamaño de la empresa, es el relacionado con la seguridad de los datos “en la nube”.  
+6. El actual entorno tecno‐social, hace necesaria la evolución del CRM tradicional hacia el Social CRM, de manera que la empresa sea capaz de combinar sin problemas el conocimiento sobre sus clientes, a partir de su propio sistema de CRM, con la gran cantidad de información que comparten éstos en las redes sociales. Compartir, comunicar, conversar y cooperar son las cuatro Cs de la Web 2.0, donde entornos colaborativos como Facebook, Twitter, Linkedink, etc., se han convertido en un nuevo canal de atención al cliente y en espacios de conversación influyentes sobre productos/marcas/empresas.  
+7. Tanto los ERP como CRM son considerados sistemas de información estratégicos que de manera integrada consiguen que la empresa  no sólo se oriente, sino también se gestione con una clara vocación al cliente. Para ello, es fundamental integrar funciones internas “Back Office” y funciones externas “Front Office”, de manera que se alcance una mayor eficiencia y efectividad en la entrega de valor al cliente.
+8. El mercado de software CRM a nivel mundial, creció un 13,3% respecto al año anterior. La razón principal de este crecimiento, ha sido la fuerte demanda de la opción software as a service (SaaS/On demand) en la nube. A nivel nacional, el informe anual sobre el desarrollo de la sociedad de la información en España “eEspaña 2014”, señala que, si bien, el software ERP y CRM siguen sin tener una presencia mayoritaria en lo que a empresas de menor tamaño se refiere, sí han experimentado cierto crecimiento global, moderado en el caso de la solución CRM, un 2%, pero destacable en el caso ERP, que incrementan su presencia un 10%.
+9. En el proceso de compra de una solución CRM, la empresa no ha de tener en cuenta únicamente factores funcionales del software, sino un conjunto de consideraciones empresariales que incluyen el presupuesto, la asistencia, la integración, el mantenimiento, los requisitos específicos del sector, y sus propios intereses. Para ello, ha de buscar proveedores que sepan trabajar con la empresa y se adapten a su nivel de sofisticación tecnológica para garantizar una relación satisfactoria y beneficiosa a largo plazo.  
+
+
+
+
+
+# Gartner® Magic Quadrant™
+
 
 - SalesForce https://www.salesforce.com/es/ ofrece servicios en la nube como Sales Cloud y Service Cloud para acceder a través de navegador web desde dispositivos fijo y móvil. 
 Dispone de la comunidad de desarrolladores https://developer.salesforce.com/ 
