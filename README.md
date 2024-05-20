@@ -418,55 +418,55 @@ Cuando la empresa implementa una estrategia CRM, requiere que ésta sea clara y 
 
 
 ## Plan de acción para la implementación del CRM
-1.) Preparación y Planificación
-	1. Definir Objetivos y Metas:
+- 1.) Preparación y Planificación
+- 	1. Definir Objetivos y Metas:
 		   - Identificar claramente los objetivos que se desean alcanzar con la implementación del CRM (e.g., mejorar la satisfacción del cliente, aumentar las ventas, optimizar procesos).
 		   - Establecer metas específicas, medibles, alcanzables, relevantes y con un tiempo definido (SMART).
-	2. Obtener el Compromiso de la Alta Dirección:
+- 	2. Obtener el Compromiso de la Alta Dirección:
 		   - Asegurar el apoyo y compromiso de los líderes de la empresa.
 		   - Comunicar la importancia y los beneficios del CRM a todos los niveles de la organización.
-	3. Formar un Equipo de Proyecto:
+-	3. Formar un Equipo de Proyecto:
 		   - Designar un equipo de proyecto con representantes de todas las áreas clave (ventas, marketing, servicio al cliente, TI).
 		   - Nombrar un gerente de proyecto para liderar la implementación.
-	4. Evaluar y Seleccionar el Software CRM:
+-	4. Evaluar y Seleccionar el Software CRM:
 		   - Investigar y evaluar diferentes soluciones CRM que se adapten a las necesidades de la empresa.
 		   - Considerar aspectos como funcionalidad, facilidad de uso, capacidad de integración, costo y soporte técnico.
-2.) Diseño y Personalización
-	5. Mapear los Procesos de Negocio:
+- 2.) Diseño y Personalización
+-	5. Mapear los Procesos de Negocio:
 		   - Documentar los procesos actuales de negocio relacionados con la gestión de clientes.
 		   - Identificar áreas de mejora y definir cómo el CRM puede optimizar estos procesos.
-	6. Personalizar el CRM:
+-	6. Personalizar el CRM:
 		   - Configurar el CRM para que se ajuste a los procesos específicos de la empresa.
 		   - Personalizar campos, formularios, informes y dashboards según las necesidades del negocio.
-3.) Integración y Migración de Datos
-	7. Planificar la Migración de Datos:
+- 3.) Integración y Migración de Datos
+-	7. Planificar la Migración de Datos:
 		   - Identificar las fuentes de datos existentes (e.g., hojas de cálculo, sistemas antiguos).
 		   - Limpiar y preparar los datos para asegurar su calidad antes de la migración.
-	8. Integrar con Otros Sistemas:
+-	8. Integrar con Otros Sistemas:
 		   - Asegurar que el CRM se integre de manera efectiva con otros sistemas empresariales (ERP, sistemas de marketing, plataformas de e-commerce).
-4.) Implementación y Formación
-	9. Desarrollar un Plan de Formación:
+- 4.) Implementación y Formación
+-	9. Desarrollar un Plan de Formación:
 		   - Crear un programa de formación para capacitar a los usuarios en el uso del CRM.
 		   - Ofrecer sesiones de formación prácticas y recursos continuos de aprendizaje (manuales, tutoriales).
-	10. Realizar una Implementación Piloto:
+-	10. Realizar una Implementación Piloto:
 		    - Implementar el CRM en un grupo pequeño de usuarios o en un área específica de la empresa como prueba piloto.
 		    - Recoger feedback y hacer ajustes necesarios antes del lanzamiento completo.
-5.) Lanzamiento y Seguimiento
-	11. Lanzamiento Completo del CRM:
+- 5.) Lanzamiento y Seguimiento
+-	11. Lanzamiento Completo del CRM:
 		    - Implementar el CRM en toda la organización siguiendo un plan de despliegue estructurado.
 		    - Asegurar que todos los usuarios tengan acceso y estén capacitados para utilizar el sistema.
-	12. Monitorización y Soporte Continuo:
+-	12. Monitorización y Soporte Continuo:
 		    - Establecer un sistema de soporte para ayudar a los usuarios con problemas o dudas.
 		    - Monitorizar el uso del CRM y recoger feedback continuo para realizar mejoras.
-6.) Evaluación y Optimización
-	13. Medir el Rendimiento y Evaluar Resultados:
+- 6.) Evaluación y Optimización
+-	13. Medir el Rendimiento y Evaluar Resultados:
 		    - Evaluar el rendimiento del CRM contra los objetivos y metas definidos inicialmente.
 		    - Utilizar métricas clave (KPIs) para medir el éxito (e.g., tasa de adopción, satisfacción del cliente, aumento de ventas).
-	14. Ajustes y Mejoras Continuas:
+-	14. Ajustes y Mejoras Continuas:
 		    - Revisar y ajustar la estrategia CRM periódicamente basándose en el análisis de datos y feedback.
 		    - Implementar nuevas funcionalidades y mejoras para adaptarse a las necesidades cambiantes del negocio y del mercado.
-Conclusión
-Implementar un CRM es un proceso continuo que requiere compromiso, planificación y adaptación. Siguiendo este plan de acción, las organizaciones pueden mejorar significativamente sus relaciones con los clientes, optimizar sus procesos internos y alcanzar sus objetivos estratégicos.
+- Conclusión
+- Implementar un CRM es un proceso continuo que requiere compromiso, planificación y adaptación. Siguiendo este plan de acción, las organizaciones pueden mejorar significativamente sus relaciones con los clientes, optimizar sus procesos internos y alcanzar sus objetivos estratégicos.
 
 
 
